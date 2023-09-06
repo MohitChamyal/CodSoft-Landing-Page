@@ -1,0 +1,224 @@
+*{
+    font-family:'Times New Roman', Times, serif;
+}
+
+#header{
+    height: 500px;
+}
+
+#heading{
+    color:white;
+    height:100px;
+    font-size:2.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:black;
+}
+
+.head-section{
+    height:50px;
+    margin-top:10px;
+    padding-top: 5px;;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:black;
+}
+
+#header-home{
+    height: 30px;
+    width:40px;
+    font-size: 1.2rem;
+    margin-right: 40px;
+    margin-left: 40px;
+}
+
+#header-home:hover{
+    font-size:1.5rem;
+}
+
+#header-home a{
+    color:white;
+}
+
+#header-about{
+    height: 30px;
+    width:87px;
+    font-size: 1.2rem;
+    margin-right: 40px;
+    margin-left: 40px;
+}
+
+#header-about:hover{
+    font-size:1.5rem;
+}
+
+#header-about a{
+    color:white;
+}
+
+#header-visa{
+    height: 30px;
+    width:145px;
+    font-size: 1.2rem;
+    margin-right: 40px;
+    margin-left: 40px;
+}
+
+#header-visa:hover{
+    font-size:1.5rem;
+}
+
+#header-visa a{
+    color:white;
+}
+
+#header-inbound{
+    height: 30px;
+    width:120px;
+    font-size: 1.2rem;
+    margin-right: 40px;
+    margin-left: 40px;
+}
+
+#header-inbound:hover{
+    font-size:1.5rem;
+}
+
+#header-inbound a{
+    color:white;
+}
+
+#header-trekking{
+    height: 30px;
+    width:80px;
+    font-size: 1.2rem;
+    margin-right: 40px;
+    margin-left: 40px;
+}
+
+#header-trekking:hover{
+    font-size:1.5rem;
+}
+
+#header-trekking a{
+    color:white;
+}
+
+#header-booking{
+    height: 30px;
+    width:80px;
+    font-size: 1.2rem;
+    margin-right: 40px;
+    margin-left: 40px;
+}
+
+#header-booking:hover{
+    font-size:1.5rem;
+}
+
+#header-booking a{
+    color:white;
+}
+
+#header-login{
+    height: 30px;
+    width:40px;
+    font-size: 1.2rem;
+    margin-right: 40px;
+    margin-left: 40px;
+}
+
+#header-login:hover{
+    font-size:1.5rem;
+}
+
+#header-login a{
+    color:white;
+}
+
+#header-search{
+    height: 30px;
+    width:40px;
+    font-size: 1.5rem;
+    margin-right: 40px;
+    margin-left: 40px;
+}
+
+#header-search:hover{
+    font-size:1.9rem;
+}
+
+#header-serach a{
+    color:white;
+}
+
+#photo{
+    margin-top:10px;
+    height:900px;
+    background-image: url(photo.jpg);
+    background-size: cover;
+}
+
+#contact-section{
+    margin-top: 10px;
+    height:50px;
+    background-color: black;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#contact-instagram{
+    padding-top: 5px;;
+    height: 30px;
+    width:20px;
+    font-size: 1.7rem;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+#contact-instagram:hover{
+    font-size:2rem;
+}
+
+#contact-twitter{
+    padding-top: 5px;;
+    height: 30px;
+    width:40px;
+    font-size: 1.7rem;
+    margin-right: 10px;
+    margin-left: 30px;
+}
+
+#contact-twitter:hover{
+    font-size:2rem;
+}
+
+#contact-facebook{
+    padding-top: 5px;;
+    height: 30px;
+    width:40px;
+    font-size: 1.7rem;
+    margin-right: 10px;
+    margin-left: 30px;
+}
+
+#contact-facebook:hover{
+    font-size:2rem;
+}
+
+#contact-phone{
+    padding-top: 5px;;
+    height: 30px;
+    width:40px;
+    font-size: 1.7rem;
+    margin-right: 10px;
+    margin-left: 30px;
+}
+
+#contact-phone:hover{
+    font-size:2rem;
+}
+
